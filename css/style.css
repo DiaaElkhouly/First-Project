@@ -195,7 +195,7 @@ body {
     z-index: 0;
 }
 .back-img img {
-    width: calc(100vw - 25px);
+    width: calc(100vw - 10px);
     height: 100vh;
     background-size: cover;
 }
